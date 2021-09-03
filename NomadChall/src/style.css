@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: purple;
+  }
+
+.bluecolor {
+    background-color: blue;
+  }
+.skybluecolor{
+    background-color: skyblue;
+}
+.yellowcolor{
+    background-color: yellow;
+}
+#hello{
+    color : white;
+}
